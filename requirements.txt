@@ -1,0 +1,6 @@
+streamlit
+pandas
+kagglehub
+altair
+plotly
+streamlit-option-menu
